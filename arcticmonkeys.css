@@ -1,0 +1,61 @@
+/* CSS */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+}
+
+.gallery {
+  margin-bottom: 40px;
+}
+
+.gallery h2 {
+  font-size: 24px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-container img {
+  width: 30%;
+  border-radius: 8px;
+}
+
+.spotify-album {
+  margin-bottom: 40px;
+}
+
+.spotify-album h2 {
+  font-size: 24px;
+}
+
+.career {
+  margin-bottom: 40px;
+}
+
+.career h2 {
+  font-size: 24px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+}
